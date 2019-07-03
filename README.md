@@ -1,6 +1,6 @@
 # Twilio Flex Plugin - Chat Emoji Picker
 
-<img src="images/EmojiPickerScreenshot.png"/>
+<img width="600px" src="images/EmojiPickerScreenshot.png"/>
 
 ## Setup
 
